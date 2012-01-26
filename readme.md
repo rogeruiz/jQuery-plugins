@@ -3,6 +3,6 @@
 
 A collection of jQuery plugins to ease my dev times.
 
-''' javascript
-$('.img').imgcenter();
-''''
+```javascript
+$('img').imgcenter();
+```
